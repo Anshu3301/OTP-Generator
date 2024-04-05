@@ -1,3 +1,3 @@
 # OTP-Generator
 
-Basic Web project that generates 6 digit OTP.
+Basic Web project,made with HTML,CSS & JS, that generates 6 digit OTP.
